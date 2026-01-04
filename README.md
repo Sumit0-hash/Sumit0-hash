@@ -1,5 +1,5 @@
 # 💫 About Me:
-About Me:<br>Hi there I'm Sumit, a developer who loves building, learning, and sharing.<br>I enjoy working with MERN Stack.<br>Currently exploring Web Development.<br>Always curious and improving one commit at a time.<br>Reach me at: atrejasmi@gmail.com.<br>Thanks for stopping by feel free to check out my projects!
+About Me:<br>Hi there I'm Sumit, a developer who loves building, learning, and sharing.<br>I enjoy working with MERN Stack.<br>Currently exploring Web Development.<br>Always curious and improving one commit at a time.<br>Reach me at: sumitbhatia900@gmail.com.<br>Thanks for stopping by feel free to check out my projects!
 
 
 # 💻 Tech Stack:
